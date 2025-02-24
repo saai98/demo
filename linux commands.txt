@@ -1,0 +1,135 @@
+Linux commands :
+
+
+chgrp :
+
+file :
+
+wc :
+
+ln --> Hardlink and soft link :
+
+nano :
+
+echo :
+
+head :
+
+tail :
+
+sed :
+
+more :
+
+sort :
+
+|
+who :
+
+w :
+
+users :
+
+uptime :
+
+whereis :
+
+Date :
+
+man :
+
+whatis :
+
+ps :
+
+kill :
+
+sar :
+
+tar :
+
+passwd :
+
+usermod :
+
+ssh :
+
+scp :
+
+free :
+
+vmstat :
+
+wget :
+
+curl :
+
+ping :
+
+telnet :
+
+uname :
+
+netstat :
+
+watch :
+
+restart :
+
+shutdown :
+
+cut :
+
+awk :
+
+mkdir :
+
+mkdir -p :
+
+rm :
+
+rm -rf :
+
+rmdir :
+
+df -dh :
+
+free -h :
+
+top :
+
+lsblk :
+
+history :
+
+cat :
+
+date :
+
+timedate :
+
+cal :
+
+chmod :
+
+chmod -r :
+
+chown :
+
+groupadd :
+
+groupdel :
+
+user add :
+
+user del :
+
+cp :
+
+mv :
+
+netstat -tunlp :
+
+ifconfig.me :
+
+
